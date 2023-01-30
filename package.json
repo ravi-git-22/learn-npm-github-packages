@@ -1,6 +1,6 @@
 {
   "name": "learn-npm-github-packages",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "this project is to learn how to create an NPM package and publish it to GITHUB package",
   "main": "index.js",
   "scripts": {
