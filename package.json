@@ -1,0 +1,22 @@
+{
+  "name": "learn-npm-github-packages",
+  "version": "1.0.5",
+  "description": "this project is to learn how to create an NPM package and publish it to GITHUB package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi-git-22/learn-npm-github-packages.git"
+  },
+  "author": "ravik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi-git-22/learn-npm-github-packages/issues"
+  },
+  "homepage": "https://github.com/ravi-git-22/learn-npm-github-packages#readme",
+  "dependencies": {
+    "jest": "^29.4.1"
+  }
+}
